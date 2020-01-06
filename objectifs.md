@@ -2,7 +2,7 @@
 
 L'objectif principal de ce cours est de vous initier à la **programmation** et à ses usages journalistiques.
 
-![](.gitbook/assets/logopython.png =250)
+![](.gitbook/assets/logopython.png =250x)
 
 Le langage que vous apprendrez s'appelle [**Python**](https://www.python.org/).
 
