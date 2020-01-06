@@ -2,11 +2,11 @@
 
 L'objectif principal de ce cours est de vous initier à la **programmation** et à ses usages journalistiques.
 
-![](.gitbook/assets/logopython.png)
+![](.gitbook/assets/logopython.png =250)
 
 Le langage que vous apprendrez s'appelle [**Python**](https://www.python.org/).
 
- Le cours s’appelle « Journalisme de données 2 », mais on pourrait en fait l’appeler « Journalisme informatique », car ce qu’on va faire durant la session s’apparente plus à ce que les anglo de vous initier aux techniques et technologies utiles dans le journalisme informatique, ou « de données », tel qu'il est actuellement pratiqué dans plusieurs grands médias du monde, y compris des . Plus concrètement, vous apprendrez : À « descendre au sous-sol » d'un ordinateur grâce à la ligne de commande UNIX.
+Le cours s’appelle « Journalisme de données 2 », mais on pourrait en fait l’appeler « Journalisme informatique », car ce qu’on va faire durant la session s’apparente plus à ce que les anglo de vous initier aux techniques et technologies utiles dans le journalisme informatique, ou « de données », tel qu'il est actuellement pratiqué dans plusieurs grands médias du monde, y compris des . Plus concrètement, vous apprendrez : À « descendre au sous-sol » d'un ordinateur grâce à la ligne de commande UNIX.
 
 Les principes fondamentaux de la programmation à l'aide du langage Python.
 
