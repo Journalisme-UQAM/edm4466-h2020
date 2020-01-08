@@ -20,9 +20,9 @@ J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop inten
 
 ## Installfest
 
-En terminant, vous devrez dès ce premier cours installer sur votre ordinateur deux outils gratuits dont nous nous servirons tout au long de la session.
+En terminant, vous devrez dès ce premier cours installer sur votre ordinateur deux outils gratuits dont nous nous servirons tout au long de la session et vous abonner à un service de partage de code grâce auquel vous allez remettre vos exercices.
 
-Il est important de les installer **DANS CET ORDRE**.
+Allons-y d'abord avec les deux outils. Il est important de les installer **DANS CET ORDRE**.
 
 ## D'abord Anaconda.
 
@@ -57,4 +57,12 @@ Vous devriez avoir un résultat qui, sans être rigoureusement identique, devrai
 ![](../.gitbook/assets/promptvspython.png)
 
 L'important est de lire python 3 quelque part. Envoyez-moi par [courriel](mailto:roy.jean-hugues@uqam.ca) une capture d'écran du résultat pour compléter le premier exercice de ce cours.
+
+## Enfin, Github
+
+Je vous ai déjà parlé du système _git._ Il s'agit d'un système de contrôle des versions dans le monde du développement logiciel. Une des façons de s'en servir est par le biais de l'interface web offerte par **Github**.
+
+![](../.gitbook/assets/logo-github.png)
+
+Je vais vous demander de vous y abonner. Une fois cela fait, je vais vous demander de faire un _«fork»_ du syllabus du cours.
 
