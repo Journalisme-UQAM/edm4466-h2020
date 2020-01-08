@@ -20,7 +20,7 @@ J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop inten
 
 ## Installfest
 
-En terminant, vous devrez dès ce premier cours installer sur votre ordinateur deux outils dont nous servirons tout au long de la session.
+En terminant, vous devrez dès ce premier cours installer sur votre ordinateur deux outils gratuits dont nous nous servirons tout au long de la session.
 
 Il est important de les installer **DANS CET ORDRE**.
 
@@ -36,5 +36,13 @@ Installez la version d'Anaconda pour **Python 3**.
 
 ![](../.gitbook/assets/vscode%20%281%29.png)
 
-J'essaie [**Visual Studio Code**](https://code.visualstudio.com/Download) pour la première fois. C'est ce qu'on appelle un «environnement de développement» en Python sur votre ordinateur et d'être aussi bien équipé\(e\) qu'un.e programmeur.euse professionnel\(le\).
+J'essaie [**Visual Studio Code**](https://code.visualstudio.com/Download) pour la première fois. C'est ce qu'on appelle un «environnement de développement». Après l'avoir installé sur votre ordinateur, vous serez aussi bien équipé\(e\) qu'un.e programmeur.euse professionnel\(le\). Ici encore, il en existe des versions pour Windows ou MacOSX.
+
+Une fois que vous l'aurez installé, il vous manquera seulement d'ajouter une **extension**.
+
+![](../.gitbook/assets/extensionsvs.png)
+
+Cherchez l'extension pour python mise au point par Microsoft  \(`ms-python.python`\) et installez-la.
+
+![](../.gitbook/assets/extensionpy.png)
 
