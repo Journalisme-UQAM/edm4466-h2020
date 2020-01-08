@@ -14,7 +14,7 @@ Si vous souhaitez être pairé\(e\) avec un\(e\) collègue informaticien\(ne\), 
 
 #### le 20 janvier 2020. 👈 
 
-### Nouvelle bourse IVADO/Le Devoir <a id="nouvelle-bourse-ivadole-devoir"></a>
+### Bourse IVADO/Le Devoir <a id="nouvelle-bourse-ivadole-devoir"></a>
 
 ![](../.gitbook/assets/ivado.png)
 

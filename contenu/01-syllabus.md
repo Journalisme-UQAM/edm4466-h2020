@@ -18,3 +18,23 @@ La matière de ce cours est difficile. Difficile à apprendre pour vous. Diffici
 
 J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop intense \(ou trop lent\). Je ne veux pas vous assomer. Je veux vous accompagner, dans la mesure de mes modestes capacités car, je le rappelle, ce que je ne connais pas est immense.
 
+### Installfest
+
+En terminant, vous devrez dès ce premier cours installer sur votre ordinateur deux outils dont nous servirons tout au long de la session.
+
+Il est important de les installer **DANS CET ORDRE**.
+
+#### D'abord Anaconda.
+
+![](../.gitbook/assets/anaconda.png)
+
+[**Anaconda**](https://www.anaconda.com/download) est ce qu'on appelle une « distribution » du langage Python. Il est possible de l'installer sur votre ordinateur, que vous ayez **Windows** ou **MacOSX**. Anaconda est devenu la distribution _de facto_ dans l'univers de l'analyse de données. Elle comprend plusieurs bibliothèques \(_librairies_ ou _packages_\) qui ne sont pas offerts par défaut dans Python. Vous n'aurez donc pas à les installer manuellement à chaque fois qu'on en apprendra une nouvelle.
+
+Installez la version d'Anaconda pour **Python 3**.
+
+#### Ensuite Visual Studio Code
+
+![](../.gitbook/assets/vscode%20%281%29.png)
+
+J'essaie [**Visual Studio Code**](https://code.visualstudio.com/Download) pour la première fois. C'est ce qu'on appelle un «environnement de développement» en Python sur votre ordinateur et d'être aussi bien équipé\(e\) qu'un.e programmeur.euse professionnel\(le\).
+
