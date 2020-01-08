@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Hiver 2020](README.md)
+* [Journalisme de données II - Hiver 2020](README.md)
 * [Objectifs](objectifs.md)
 
