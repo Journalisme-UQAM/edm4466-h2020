@@ -1,18 +1,18 @@
-# Objectifs
+# Méthode
 
 L'objectif principal de ce cours est de vous initier à la **programmation** et à ses usages journalistiques.
 
-![](.gitbook/assets/logopython.png)
-
 Le langage que vous apprendrez s'appelle [**Python**](https://www.python.org/).
 
-Le cours s’appelle « Journalisme de données 2 », mais on pourrait en fait l’appeler « Journalisme informatique », car ce qu’on va faire durant la session s’apparente plus à ce que les anglo de vous initier aux techniques et technologies utiles dans le journalisme informatique, ou « de données », tel qu'il est actuellement pratiqué dans plusieurs grands médias du monde, y compris des . Plus concrètement, vous apprendrez : À « descendre au sous-sol » d'un ordinateur grâce à la ligne de commande UNIX.
+![](.gitbook/assets/logopython.png)
 
-Les principes fondamentaux de la programmation à l'aide du langage Python.
+Plus concrètement, on s'en servira pour :
 
-Faire du moissonner des données, ou data scraping, en Python.
+* **moissonner** des données, ou faire du _data scraping,_
+* faire du **traitement du langage naturel** \(ou _Natural Language Processing \[NLP\]_\), ce qui est considéré par certains comme une forme d'intelligence artificielle
+* **analyser** des données lorsqu'elles sont trop volumineuses pour un tableur comme _Excel_ ou _Calc_ de LibreOffice.
 
-Comment faire de l'analyse de données avec de très gros fichiers en vous servant de pandas, une bibliothèque Python spécialisée.
+Certaines et certains pourront également avoir pour objectif de travailler en équipe avec un\(e\) véritable informaticien\(ne\). En effet, pour une deuxième année, nous allons pouvoir collaborer avec les étudiant\(e\)s du professeur [Thomas Hurtut de Polytechnique Montréal](http://www.professeurs.polymtl.ca/thomas.hurtut/). Cette collaboration n'est pas obligatoire. Mais si vous le souhaitez, vous pourrez être pairé\(e\) avec un\(e\) étudiant\(e\) de Poly pour faire votre travail final. Cette collaboration pourrait donner un projet plus intéressant, mais viendra avec de plus grandes exigences au plan de la correction.
 
-À faire des visualisations simples, grâce à différents outils en ligne, mais aussi, si vous le souhaitez, en travaillant en équipe avec des ingénieurs en informatique dans le cadre d'une nouvelle collaboration avec des étudiant.e.s de Thomas Hurtut, de Polytechnique Montréal. Plusieurs des outils que nous utiliserons dans le cadre de ce cours sont à code source libre. Pour vous donner une idée de ce avec quoi travaillent les journalistes informatiques québécois, le graphique ci-dessous montre tous les outils qu'ils ont mentionnés lors d'entrevues que j'ai réalisées en 2015 dans le cadre d'un mémoire de maîtrise. Pour le mettre à jour à 2019, il faudrait ajouter des outils reliés à l'intelligence artificielle.
+Plusieurs des outils que nous utiliserons dans le cadre de ce cours sont à code source libre et devraient fonctionner autant sur Mac que sur PC avec Windows. **Mais il va sans dire que posséder un ordinateur est incontournable pour suivre ce cours.**
 

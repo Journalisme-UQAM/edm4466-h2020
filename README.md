@@ -1,18 +1,14 @@
-# Journalisme de données II - Hiver 2020
+---
+description: >-
+  Syllabus du cours EDM4466 (Journalisme de données II) de la session d'hiver
+  2020.
+---
 
-## Les objectifs de ce cours
+# Hiver 2020
 
-Coder ou décoder? Faut-il apprendre la programmation ou étudier les impacts du numérique? C'est un débat qui déchire bien des universitaires et des journalistes.
+Les sources documentaires des journalistes sont aujourd'hui, pour l'essentiel, des bases de données. Les gouvernements, les entreprises, les médias, les individus \(par leurs interactions dans les médias sociaux\) génèrent des quantités vertigineuses de données. Ces données sont souvent accessibles en ligne. C'est ainsi que d'y puiser est de plus en plus considéré comme une compétence fondamentale du métier. D'aucuns affirment que les _« news-getters »_ de demain sont les journalistes qui seront capables de harnacher ces bases de données, puis d'y trouver et de raconter les histoires qu'elles recèlent.
 
-«Il faut faire les deux», plaide Dominique Cardon dans [_Culture numérique_](http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100540390&fa=author&person_id=1201), publié en 2019. Il faut à la fois coder ET étudier les effets du numérique dans la société, écrit-il, «car le numérique, pratique éminemment interactive, exige de comprendre en faisant et de faire en comprenant». En d'autres termes, pour bien comprendre la société d'aujourd'hui, où les interactions sociales se déroulent de plus en plus sur des plateformes numériques, il faut comprendre comment elles fonctionnent.
+Ce cours va vous y aider en vous montrant quelques-unes des technologies qui peuvent être appliquées au journalisme, sans ne jamais perdre de vue ses [principes fondamentaux](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-actuel/Principes-du-journalisme).
 
-Ce n'est pas nouveau. De tout temps, on demande aux journalistes de comprendre le fonctionnement de toutes sortes de systèmes: la politique, les élections, les parlements, l'octroi des contrats publics, les tribunaux, l'économie, les règlementations en matière environnementale, agricole, culturelle, professionnelle, etc. Même le hockey est un système dont on s'attend à ce que vous connaissiez les règles.
-
-Dans un univers de plateformes, le système est fait de deux éléments : des masses phénoménales de données, ce qu'on appelle du _**Big Data**_, et des **algorithmes** qui, à la fois, puisent dans les bases de données et les alimentent.
-
-Dans ce cours, vous allez créer des algorithmes. Vous allez jouer avec du big data. L'objectif de ces apprentissages est de vous faire réfléchir à ce que vous faites, de démythifier ces _buzzwords_, et de mieux vous armer pour poser des questions à des pouvoirs \(économiques, administratifs, ou autres\) qui se servent aussi d'algorithmes et de mégadonnées.
-
-La finalité de ce cours n'est pas de faire de vous des développeuses et des développeurs. C'est de faire de vous des journalistes du temps présent sans ne jamais perdre de vue ses [principes fondamentaux](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-actuel/Principes-du-journalisme).
-
-Le contenu de ce cours, en fait, colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://cj2020.northeastern.edu/). Il s'agit de l'application de l'informatique au journalisme. Ce syllabus même est un exemple de ce qu'on peut faire avec ces technologies. Il repose sur un système appelé [_git_](https://fr.wikipedia.org/wiki/Git), qui permet de collaborer à plusieurs sur un même projet. Ce système est l'une des technologies que l'on appréhendera ensemble au cours de la session.
+Le contenu de ce cours, en fait, colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://cj2020.northeastern.edu/). Il s'agit de l'application de l'informatique au journalisme. Ce syllabus même est un exemple de ce qu'on peut faire avec ces technologies. Il repose sur un système appelé [_git_](https://fr.wikipedia.org/wiki/Git), qui permet de collaborer à plusieurs sur un même projet. Ce système est l'une des technologies que l'on appréhendra ensemble au cours de la session.
 
