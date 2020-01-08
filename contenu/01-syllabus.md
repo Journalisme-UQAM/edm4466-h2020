@@ -46,5 +46,15 @@ Cherchez l'extension pour python mise au point par Microsoft  \(`ms-python.pytho
 
 ![](../.gitbook/assets/extensionpy.png)
 
-Une fois que tout cela sera fait, dans le menu Terminal de Visual Studio, choisissez «Nouveau Terminal».
+Une fois que tout cela sera fait, dans le menu Terminal de Visual Studio, choisissez «Nouveau Terminal». Dans l'un des espaces de Visual Studio, vous devriez voir le nom de votre ordinateur, suivi d'un signe de dollar \($\) et d'un gros curseur rectangulaire blanc.
+
+![](../.gitbook/assets/promptvs.png)
+
+Tapez simplement `python`.
+
+Vous devriez avoir un résultat qui, sans être rigoureusement identique, devrait ressembler à ceci.
+
+![](../.gitbook/assets/promptvspython.png)
+
+L'important est de lire python 3 quelque part. Envoyez-moi par [courriel](mailto:roy.jean-hugues@uqam.ca) une capture d'écran du résultat pour compléter le premier exercice de ce cours.
 
