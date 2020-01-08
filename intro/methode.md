@@ -6,7 +6,7 @@ Mais ce qu'on fera, surtout, c'est d'apprendre la **programmation** et ses usage
 
 Le langage qu'on utilisera s'appelle [**Python**](https://www.python.org/).
 
-![](.gitbook/assets/logopython.png)
+![](../.gitbook/assets/logopython.png)
 
 Plus concrètement, on s'en servira pour :
 
@@ -16,7 +16,7 @@ Plus concrètement, on s'en servira pour :
 
 ### Collaboration possible avec un\(e\) étudiant\(e\) de Polytechnique
 
-Certaines et certains pourront travailler en équipe avec un\(e\) véritable informaticien\(ne\). En effet, pour une deuxième année, nous allons pouvoir collaborer avec les étudiant\(e\)s du professeur [Thomas Hurtut de Polytechnique Montréal](http://www.professeurs.polymtl.ca/thomas.hurtut/). Cette collaboration n'est pas obligatoire. Mais si vous le souhaitez, vous pourrez être pairé\(e\) avec un\(e\) étudiant\(e\) de Thomas pour faire votre travail final. Cette collaboration pourrait donner un projet plus intéressant, mais viendra avec de plus grandes exigences au plan de la correction.
+
 
 Plusieurs des outils que nous utiliserons dans le cadre de ce cours sont à code source libre et devraient fonctionner autant sur Mac que sur PC avec Windows. **Mais il va sans dire que posséder un ordinateur est incontournable pour suivre ce cours.**
 
