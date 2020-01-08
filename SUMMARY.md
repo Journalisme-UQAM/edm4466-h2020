@@ -6,4 +6,9 @@
 
 * [Méthode](intro/methode.md)
 * [Collaboration avec Polytechnique](intro/collaboration-avec-polytechnique.md)
+* [Enseignant](intro/enseignant.md)
+
+## Contenu
+
+* [01 - Syllabus](contenu/01-syllabus.md)
 
