@@ -14,3 +14,11 @@ Si vous souhaitez être pairé\(e\) avec un\(e\) collègue informaticien\(ne\), 
 
 #### le 20 janvier 2020. 👈 
 
+### Nouvelle bourse IVADO/Le Devoir <a id="nouvelle-bourse-ivadole-devoir"></a>
+
+![](../.gitbook/assets/ivado.png)
+
+Travailler en collaboration avec des étudiant.e.s de Poly ne vous donne aucun point de plus au cours de la session. Mais il vous donne l'occasion de poser votre candidature à la deuxième édition, seulement, de la bourse en journalisme de données offerte par l'Institut de valorisation des données \([IVADO](https://ivado.ca)\) et [_Le Devoir_](http://www.ledevoir.com).
+
+Deux bourses, d'**une valeur de 5 000$** chacune, permettront à deux équipes \(un\(e\) journaliste et un\(e\) ingénieur\(e\) dans chaque équipe\), de réaliser un stage au sein du quotidien de la rue Berri. Si vous emportez l'une de ces bourses, il vous suffira de vous inscrire, par entente interuniversitaire, à un stage de recherche avec le professeur Hurtut, stage qui vous serait ensuite crédité dans le bloc F de votre bacc en journalisme.
+
