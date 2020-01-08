@@ -18,13 +18,13 @@ La matière de ce cours est difficile. Difficile à apprendre pour vous. Diffici
 
 J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop intense \(ou trop lent\). Je ne veux pas vous assomer. Je veux vous accompagner, dans la mesure de mes modestes capacités car, je le rappelle, ce que je ne connais pas est immense.
 
-### Installfest
+## Installfest
 
 En terminant, vous devrez dès ce premier cours installer sur votre ordinateur deux outils dont nous servirons tout au long de la session.
 
 Il est important de les installer **DANS CET ORDRE**.
 
-#### D'abord Anaconda.
+## D'abord Anaconda.
 
 ![](../.gitbook/assets/anaconda.png)
 
@@ -32,7 +32,7 @@ Il est important de les installer **DANS CET ORDRE**.
 
 Installez la version d'Anaconda pour **Python 3**.
 
-#### Ensuite Visual Studio Code
+## Ensuite Visual Studio Code
 
 ![](../.gitbook/assets/vscode%20%281%29.png)
 
