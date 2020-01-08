@@ -10,5 +10,7 @@ Le cours de Thomas est intitulé «Visualisation de données». Ainsi, dans une 
 
 Cette collaboration n'est **pas obligatoire**. Un maximum de 10 étudiant\(e\)s pourront s'en prévaloir. Elle vient avec des avantages \(un travail final plus léché; l'expérience d'une collaboration comme il s'en fait de plus en plus dans les médias; possibilité de puiser dans un «panier à idées»\), mais aussi avec des inconvénients \(exigences plus grandes sur le plan de la correction; l'étudiant\(e\) de Poly notera une partie de votre travail; échéances plus serrées\).
 
-Si vous souhaitez être pairé\(e\) avec un\(e\) collègue informaticien\(ne\), il faudra vous manifester avant le 20 janvier 2020. 👈 
+Si vous souhaitez être pairé\(e\) avec un\(e\) collègue informaticien\(ne\), il faudra vous manifester avant:
+
+#### le 20 janvier 2020. 👈 
 
