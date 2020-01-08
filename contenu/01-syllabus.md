@@ -2,14 +2,14 @@
 
 ## 9 janvier 2020
 
-J'y décrirai le syllabus et les objectifs généraux du cours.
+Je décrirai le syllabus et les objectifs généraux du cours.
 
 Donné depuis 2016, ce cours en est à sa cinquième itération. À chaque année, j'essaie des choses, j'ajoute des contenus, j'en retranche.
 
-Généralement, la structure du cours correspond au « pipeline » du journalisme informatique, aux étapes de cette pratique :
+Généralement, la structure du cours correspond au _« pipeline »_ du journalisme informatique, aux étapes de cette pratique :
 
 1. On effectue la cueillette de l'information ou des données, souvent, grâce à de la programmation.
-2. On analyse, ensuite, ces données.
+2. On analyse, ensuite, ces données, tout en faisant des entrevues ou en allant sur le terrain pour vérifier, pour contextualiser, pour incarner.
 3. On raconte, enfin, l'histoire que recèle ces données grâce, entre autres, à des visualisations.
 
 Mais cette année, j'ai relégué le volet visualisation au cours EDM4455 pour ajouter du contenu dans le volet analyse en vous montrant pour la première fois, cette année, l'analyse du langage naturel. Vous me direz si cela vous aura été utile.
@@ -60,9 +60,13 @@ L'important est de lire python 3 quelque part. Envoyez-moi par [courriel](mailto
 
 ## Enfin, Github
 
-Je vous ai déjà parlé du système _git._ Il s'agit d'un système de contrôle des versions dans le monde du développement logiciel. Une des façons de s'en servir est par le biais de l'interface web offerte par **Github**.
+Je vous ai déjà parlé de _git._ Il s'agit d'un système de contrôle des versions dans le monde du développement logiciel. Une des façons de s'en servir est par le biais de l'interface web offerte par **Github**.
 
 ![](../.gitbook/assets/logo-github.png)
 
-Je vais vous demander de vous y abonner. Une fois cela fait, je vais vous demander de faire un _«fork»_ du syllabus du cours.
+Je vais vous demander de vous y abonner \(ça aussi, c'est gratuit\). Une fois cela fait, je vais vous demander de faire une copie \(_« fork »_\) du répertoire \(_« repo »_\) du syllabus du cours que vous trouverez sur le [compte Github du programme](https://github.com/Journalisme-UQAM).
+
+![](../.gitbook/assets/fork.png)
+
+Ce n'est pas une obligation, mais une fois abonné\(e\), vous pourrez choisir l'[option « éducation »](https://education.github.com/pack). Cette option vous permet d'accéder gratuitement à différents autres outils dont on ne se servira pas nécessairement au cours de la session, mais qui pourraient vous aider à réaliser votre travail final, voire vous être utiles dans votre future carrière de _hacker\(euse\)_.
 
