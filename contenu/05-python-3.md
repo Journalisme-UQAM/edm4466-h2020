@@ -2,7 +2,7 @@
 
 ## 6 février 2020
 
-![La r&#xE9;colte, par Vladimir Orlovsky \(Mus&#xE9;e d&apos;art de Krasno&#xEF;arsk, Russie\)](../.gitbook/assets/vladimir-orlovsky-la-recolte.jpg)
+![La r&#xE9;colte, par Vladimir Orlovski \(1882 - Mus&#xE9;e d&apos;art de Krasno&#xEF;arsk, Russie\)](../.gitbook/assets/recolte_vladimir_orlovski_1882.jpg)
 
 On va maintenant faire ce qu'on appelle en anglais du _scraping_, ce qui peut être traduit en français par du **moissonnage**.
 

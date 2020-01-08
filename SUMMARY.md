@@ -15,4 +15,7 @@
 * [03 - Python 1](contenu/03-python-1.md)
 * [04 - Python 2](contenu/04-python-2.md)
 * [05 - Python 3](contenu/05-python-3.md)
+* [06 - Python 4](contenu/06-python-4.md)
+* [07 - Brainstorm](contenu/07-brainstorm.md)
+* [08 - Semaine de lecture](contenu/08-semaine-de-lecture.md)
 
