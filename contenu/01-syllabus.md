@@ -46,3 +46,5 @@ Cherchez l'extension pour python mise au point par Microsoft  \(`ms-python.pytho
 
 ![](../.gitbook/assets/extensionpy.png)
 
+Une fois que tout cela sera fait, dans le menu Terminal de Visual Studio, choisissez «Nouveau Terminal».
+
