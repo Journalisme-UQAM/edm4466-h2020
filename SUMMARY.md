@@ -18,5 +18,5 @@
 * [06 - Python 4](contenu/06-python-4.md)
 * [07 - Brainstorm](contenu/07-brainstorm.md)
 * [08 - Semaine de lecture](contenu/08-semaine-de-lecture.md)
-* [09 - TAL 1](contenu/09-traitement-du-langage-naturel-1.md)
+* [09 - TAL 1](contenu/09-tal-1.md)
 

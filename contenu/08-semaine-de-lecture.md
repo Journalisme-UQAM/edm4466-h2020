@@ -2,7 +2,7 @@
 
 ## 27 février 2020
 
-![](../.gitbook/assets/daftpunktocat-guy.gif)
+![](../.gitbook/assets/daftpunktocat-thomas%20%281%29.gif)
 
-![](../.gitbook/assets/daftpunktocat-thomas.gif)
+![](../.gitbook/assets/daftpunktocat-guy%20%281%29.gif)
 
