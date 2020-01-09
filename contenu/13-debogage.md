@@ -6,3 +6,5 @@ Tout le monde vient en classe pour faire une courte présentation initiale au co
 
 Je tenterai de vous aider à trouver des solutions. Vous pourrez aussi aider les autres à avancer.
 
+Et vous pourrez en profiter pour remplir l'[évaluation des enseignements](http://evaluation.uqam.ca/).
+
