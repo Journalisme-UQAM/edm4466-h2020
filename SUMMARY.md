@@ -21,4 +21,5 @@
 * [09 - TAL 1](contenu/09-tal-1.md)
 * [10 - TAL 2](contenu/10-tal-2.md)
 * [11 - Pandas 1](contenu/11-pandas-1.md)
+* [12 - Pandas 2](contenu/12-pandas-2.md)
 
