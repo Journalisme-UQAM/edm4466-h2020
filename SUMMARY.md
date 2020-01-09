@@ -10,7 +10,7 @@
 
 ## Contenu
 
-* [01 - Syllabus](contenu/01-syllabus.md)
+* [01 - Syllabus + installfest](contenu/01-syllabus.md)
 * [02 - UNIX](contenu/02-unix.md)
 * [03 - Python 1](contenu/03-python-1.md)
 * [04 - Python 2](contenu/04-python-2.md)
