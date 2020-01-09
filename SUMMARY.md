@@ -19,4 +19,5 @@
 * [07 - Brainstorm](contenu/07-brainstorm.md)
 * [08 - Semaine de lecture](contenu/08-semaine-de-lecture.md)
 * [09 - TAL 1](contenu/09-tal-1.md)
+* [10 - TAL 2](10-tal-2.md)
 
