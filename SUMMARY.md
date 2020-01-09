@@ -31,4 +31,6 @@
 * [Travaux](travaux/travaux.md)
 * [Ventilation](travaux/ventilation.md)
 * [Critères d'évaluation](travaux/criteres-devaluation.md)
+* [Tutoriels](tutoriels.md)
+* [Bibliographie](bibliographie.md)
 
