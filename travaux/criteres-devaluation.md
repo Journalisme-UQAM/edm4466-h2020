@@ -10,6 +10,8 @@ Vous conviendrez que les notes de **A-**, **A** ou **A+** seront réservées à 
 
 Les notes égales ou inférieures à **B-**, cependant, sont toujours possibles si l'effort n'est manifestement pas au rendez-vous ou si le plagiat est manifeste.
 
+Je ne tiendrai pas compte des fautes de français dans les commentaires que vous laisserez dans vos scripts.
+
 Rappelez-vous qu'il sera possible de ne rien comprendre. Vous pourrez ressentir une intense frustration qui ne m'est pas étrangère. Il m'arrive fréquemment de rager et d'avoir envie de défenestrer mon ordinateur. Ne vous laissez pas paralyser. N'hésitez pas, non plus, à demander de l'aide \(m'écrire, m'appeler ou venir me voir à mon bureau\).
 
 ![](../.gitbook/assets/tabarnak.gif)
@@ -21,4 +23,6 @@ Rappelez-vous qu'il sera possible de ne rien comprendre. Vous pourrez ressentir 
 * Originalité.
 
 Ici encore, il est possible que vous n'y arriviez pas. Ne vous sentez pas _poche_. Plusieurs étudiant\(e\)s des sessions précédentes n'ont pas été en mesure de compléter un projet final. Soyez néanmoins certains que vos efforts auront une valeur à mes yeux. Un _making-of_ détaillé et bien documenté aussi!
+
+Dans votre travail final et votre _making-of_, toute erreur de français vous fait perdre 1% de la valeur du travail \(0,25 point dans votre travail final; 0,1 point dans votre _making-of_\).
 
