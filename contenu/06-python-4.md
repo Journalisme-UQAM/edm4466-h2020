@@ -1,5 +1,7 @@
 # 06 - Python 4
 
+## 13 février 2020
+
 On continue dans l'apprentissage de BeautifulSoup pour :
 
 * Contourner différents obstacles pouvant entraver votre moissonnage
