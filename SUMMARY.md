@@ -23,5 +23,7 @@
 * [11 - Pandas 1](contenu/11-pandas-1.md)
 * [12 - Pandas 2](contenu/12-pandas-2.md)
 * [13 - Débogage](contenu/13-debogage.md)
-* [14 - Automatisation et SQL](14-automatisation-et-sql.md)
+* [14 - Automatisation et SQL](contenu/14-automatisation-et-sql.md)
+* [15 - Présentations finales](contenu/15-presentations-finales.md)
+* [Travaux](travaux.md)
 
