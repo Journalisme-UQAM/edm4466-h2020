@@ -25,6 +25,10 @@
 * [13 - Débogage](contenu/13-debogage.md)
 * [14 - Automatisation et SQL](contenu/14-automatisation-et-sql.md)
 * [15 - Présentations finales](contenu/15-presentations-finales.md)
-* [Travaux](travaux.md)
-* [Ventilation](ventilation.md)
+
+## Travaux <a id="travaux-1"></a>
+
+* [Travaux](travaux-1/travaux.md)
+* [Ventilation](travaux-1/ventilation.md)
+* [Critères d'évaluation](travaux-1/criteres-devaluation.md)
 

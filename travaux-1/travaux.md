@@ -16,7 +16,7 @@ Postez-le avant 23h59, le 3 février 2020.
 
 ## Devoir 3 \(15 points\) - Moissonnage \(description à venir\) <a id="devoir-3"></a>
 
-Le travail est bien décrit dans [la page de la semaine 6](contenu/06-python-4.md). Vous devez déposer votre script \(**devoir3.py**\) dans votre compte Github. Placez-le dans un _« repo »_ public que vous appellerez **edm4466-devoir3**.
+Le travail est bien décrit dans [la page de la semaine 6](../contenu/06-python-4.md). Vous devez déposer votre script \(**devoir3.py**\) dans votre compte Github. Placez-le dans un _« repo »_ public que vous appellerez **edm4466-devoir3**.
 
 Postez-le avant 23h59, le 21 février 2020.
 
