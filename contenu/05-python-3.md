@@ -8,7 +8,7 @@ On va maintenant faire ce qu'on appelle en anglais du _scraping_, ce qui peut ê
 
 On va rapidement voir des outils simples pour [moissonner des données grâce aux **feuilles de calcul Google**](http://bit.ly/scraping2018-1).
 
-Mais on va s'y mettre surtout à l'aide de la bibliothèque Python [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
+Mais on va s'y mettre surtout à l'aide de la bibliothèque Python [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
 Pour référence, j'ai mis en ligne [ce tutoriel sur BeautifulSoup](http://bit.ly/jhroybs4).
 
