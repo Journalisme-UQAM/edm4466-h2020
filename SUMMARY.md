@@ -26,9 +26,9 @@
 * [14 - Automatisation et SQL](contenu/14-automatisation-et-sql.md)
 * [15 - Présentations finales](contenu/15-presentations-finales.md)
 
-## Travaux <a id="travaux-1"></a>
+## Travaux
 
-* [Travaux](travaux-1/travaux.md)
-* [Ventilation](travaux-1/ventilation.md)
-* [Critères d'évaluation](travaux-1/criteres-devaluation.md)
+* [Travaux](travaux/travaux.md)
+* [Ventilation](travaux/ventilation.md)
+* [Critères d'évaluation](travaux/criteres-devaluation.md)
 
