@@ -22,5 +22,6 @@
 * [10 - TAL 2](contenu/10-tal-2.md)
 * [11 - Pandas 1](contenu/11-pandas-1.md)
 * [12 - Pandas 2](contenu/12-pandas-2.md)
-* [13 - Déboguage](13-deboguage.md)
+* [13 - Débogage](contenu/13-debogage.md)
+* [14 - Automatisation et SQL](14-automatisation-et-sql.md)
 
