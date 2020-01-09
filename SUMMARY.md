@@ -20,4 +20,5 @@
 * [08 - Semaine de lecture](contenu/08-semaine-de-lecture.md)
 * [09 - TAL 1](contenu/09-tal-1.md)
 * [10 - TAL 2](contenu/10-tal-2.md)
+* [11 - Pandas 1](contenu/11-pandas-1.md)
 
