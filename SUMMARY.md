@@ -38,5 +38,5 @@
 
 * [Politiques 16 et 42](politiques/politiques-16-et-42.md)
 * [Règlement 18](politiques/reglement-18.md)
-* [Politique 23](politique-23.md)
+* [Politique 23](politiques/politique-23.md)
 
