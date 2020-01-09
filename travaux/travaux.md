@@ -2,7 +2,7 @@
 
 Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
-## Installfest \(2 points\) <a id="devoir-1"></a>
+## Installfest \(2 points\) <a id="installfest"></a>
 
 Installez les outils et services nécessaires au cours dès la première semaine. Si vous le ne faites pas en ma présence en classe au cours de la première séance, vous devrez m'envoyer une capture d'écran tel que demandé [ici](../contenu/01-syllabus.md#ensuite-visual-studio-code), et [«forker» le répertoire où se trouve le syllabus](../contenu/01-syllabus.md#enfin-github).
 

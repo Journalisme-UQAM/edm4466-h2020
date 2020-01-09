@@ -12,13 +12,7 @@ Ce n'est pas nouveau. De tout temps, on demande aux journalistes de comprendre, 
 
 Les plateformes sont des systèmes composés, grosso modo, de deux éléments : des masses phénoménales de données, ce qu'on appelle du _**Big Data**_, et des **algorithmes** qui, à la fois, s'alimentent de données et les nourrissent.
 
-Dans ce cours :
-
-* vous allez créer des algorithmes
-* vous allez jouer avec des données en grandes quantités
-* vous allez même vous servir de réseaux de neurones artificiels.
-
-L'objectif de ces apprentissages n'est pas de vous transformer en développeuses ou en développeurs. Il s'agit d'abord de **démythifier** les _buzzwords_ que sont devenus «algorithme» et «Big Data» en apprivoisant la programmation et la science des données massives.
+Dans ce cours, vous allez créer des algorithmes. Vous allez jouer avec des données en grandes quantités. Vous allez même vous servir de réseaux de neurones artificiels. L'objectif de ces apprentissages n'est pas de vous transformer en développeuses ou développeurs. Il s'agit d'abord de **démythifier** les _buzzwords_ que sont devenus «algorithme» et «Big Data» en apprivoisant la programmation et l'analyse de données massives.
 
 Comme il ne faut pas perdre de vue les [principes fondamentaux](http://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio-actuel/Principes-du-journalisme) du journalisme, il s'agit aussi de **mieux vous armer** lorsque vous aurez à faire face à des algorithmes et du Big Data. Comme journalistes, le public s'attend à ce que vous demandiez des comptes aux pouvoirs dans la société. Ces pouvoirs peuvent être économiques, politiques, administratifs. De nos jours, ces pouvoirs s'exercent de plus en plus par le biais d'algorithmes s'appuyant sur des données massives. Le public a besoin de journalistes capables faire ce que Nicholas Diakopoulos appelle du [_Algorithmic Accountability Reporting_](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Algorithmic-Accountability-Reporting_final.pdf), c'est-à-dire de demander des comptes à des algorithmes. Voilà peut-être le principal objectif de ce cours.
 
