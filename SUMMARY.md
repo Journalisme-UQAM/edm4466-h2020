@@ -32,7 +32,7 @@
 * [Ventilation](travaux/ventilation.md)
 * [Critères d'évaluation](travaux/criteres-devaluation.md)
 * [Tutoriels](tutoriels.md)
-* [Bibliographie](bibliographie.md)
+* [Bibliographie](travaux/bibliographie.md)
 
 ## Politiques et règlements <a id="politiques"></a>
 
