@@ -4,9 +4,9 @@
 
 ## Intro
 
+* [Enseignant](intro/enseignant.md)
 * [Méthode](intro/methode.md)
 * [Collaboration avec Polytechnique](intro/collaboration-avec-polytechnique.md)
-* [Enseignant](intro/enseignant.md)
 
 ## Contenu
 
