@@ -11,5 +11,5 @@ Encore cette semaine-là, afin de mieux assimiler cette matière nouvelle, vous 
 
 Je vous rappelle que j'ai mis en ligne [un court tutoriel](https://medium.com/@jeanhuguesroy/comment-partager-votre-script-sur-github-9f7116d86034#.2tmiks68i) pour savoir comment créer un répertoire sur Github. Mais vous êtes déjà des pros!
 
-Les fichiers qu’on créera en classe seront placés dans la section [tutoriels](../travaux/tutoriels.md).
+Les fichiers qu’on créera en classe seront placés dans la section [tutoriels](../tutoriels.md).
 
