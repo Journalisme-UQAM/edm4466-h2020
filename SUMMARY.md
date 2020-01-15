@@ -31,12 +31,12 @@
 * [Travaux](travaux/travaux.md)
 * [Ventilation](travaux/ventilation.md)
 * [Critères d'évaluation](travaux/criteres-devaluation.md)
-* [Tutoriels](tutoriels.md)
-* [Bibliographie](bibliographie.md)
+* [Tutoriels](travaux/tutoriels.md)
 
 ## Politiques et règlements <a id="politiques"></a>
 
 * [Politiques 16 et 42](politiques/politiques-16-et-42.md)
 * [Règlement 18](politiques/reglement-18.md)
 * [Politique 23](politiques/politique-23.md)
+* [Bibliographie](bibliographie.md)
 
