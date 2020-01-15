@@ -31,7 +31,7 @@
 * [Travaux](travaux/travaux.md)
 * [Ventilation](travaux/ventilation.md)
 * [Critères d'évaluation](travaux/criteres-devaluation.md)
-* [Tutoriels](travaux/tutoriels.md)
+* [Tutoriels](tutoriels.md)
 
 ## Politiques et règlements <a id="politiques"></a>
 

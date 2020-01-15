@@ -2,7 +2,7 @@
 
 
 
-Les différents tutoriels que je vous présenterai au cours de la session sont réunis sur cette page. Revenez-y souvent. D'autres vont s'ajouter.
+Les différents tutoriels que je vous présenterai au cours de la session sont réunis sur cette page. Revenez-y souvent. D'autres pourraient s'ajouter.
 
 * [Unix \(ou _bash_\) pour journalistes](https://medium.com/@jeanhuguesroy/unix-pour-journalistes-1352aad18f2a)
 * [Création d'un répertoire dans Github](https://medium.com/@jeanhuguesroy/comment-partager-votre-script-sur-github-9f7116d86034)
