@@ -2,6 +2,10 @@
 
 Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
+## Installfest \(2 points\) <a id="installfest"></a>
+
+Installez les outils et services nécessaires au cours dès la première semaine. Si vous le ne faites pas en ma présence en classe au cours de la première séance, vous devrez m'envoyer une capture d'écran tel que demandé [ici](../contenu/01-syllabus.md#ensuite-visual-studio-code), et [«forker» le répertoire où se trouve le syllabus](../contenu/01-syllabus.md#enfin-github).
+
 ## Devoir 1 \(10 points\) - Description à venir <a id="devoir-1"></a>
 
 Vous devez déposer votre script \(**devoir1.py**\) dans votre compte Github. Plus précisément, placez-le dans un répertoire \(_« repo »_ qui devra être _**public**_\) que vous baptiserez **edm4466-devoir1**. Le nom exact est important, car un robot va ramasser votre devoir. S'il ne trouve pas ce nom précis, il ne ramassera rien.
@@ -66,4 +70,8 @@ Quelle que soit la forme que prendra votre travail final, il devra être accompa
 Votre document PDF doit être accompagné, s'il y a lieu, de tous les scripts **\(fichiers .py ou .rb ou .js\)** que vous avez écrits, et/ou de tous les fichiers de données **\(formats .csv, .ods, .xls, .sql ou autres\)** que vous avez récoltés ou dont vous vous êtes servis.
 
 Vous mettez tout cela dans un _« repo »_ public sur votre compte Github avant le début du dernier cours \(14h00, le 16 avril 2020\). Vous pouvez lui donner le nom qui vous plaît.
+
+## Présentations \(deux fois 4 points\)
+
+Je vous donne quatre points pour chacune de vos présentations \(l'initiale, à la semaine 13, et la finale à la semaine 15\).
 
