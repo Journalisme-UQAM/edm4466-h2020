@@ -6,9 +6,11 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 
 Installez les outils et services nécessaires au cours dès la première semaine. Si vous le ne faites pas en ma présence en classe au cours de la première séance, vous devrez m'envoyer une capture d'écran tel que demandé [ici](../../contenu/01-syllabus.md#ensuite-visual-studio-code), et [«forker» le répertoire où se trouve le syllabus](../../contenu/01-syllabus.md#enfin-github).
 
-## Devoir 1 \(10 points\) - Description à venir <a id="devoir-1"></a>
+## Devoir 1 \(10 points\) - [_Montréal Campus_](devoir-1.md)\_\_ <a id="devoir-1"></a>
 
-Vous devez déposer votre script \(**devoir1.py**\) dans votre compte Github. Plus précisément, placez-le dans un répertoire \(_« repo »_ qui devra être _**public**_\) que vous baptiserez **edm4466-devoir1**. Le nom exact est important, car un robot va ramasser votre devoir. S'il ne trouve pas ce nom précis, il ne ramassera rien.
+Vous devez déposer votre script \(**devoir1.py**\) dans votre compte Github. Plus précisément, placez-le dans un répertoire \(_« repo »_\) que vous baptiserez **edm4466-devoir1**. Ce répetoire peut-être privé. Mais au moment de la remise, vous devrez le rendre **public**.
+
+En outre, le nom exact est important, car un robot va ramasser votre devoir. S'il ne trouve pas ce nom précis, et si votre répertoire n'est pas public, il ne ramassera rien... 8,-\(
 
 Postez-le avant 23h59, le 27 janvier 2020.
 
