@@ -8,7 +8,7 @@ Installez les outils et services nécessaires au cours dès la première semaine
 
 ## Devoir 1 \(10 points\) - [_Montréal Campus_](devoir-1.md)\_\_ <a id="devoir-1"></a>
 
-Vous devez déposer votre script \(**devoir1.py**\) dans votre compte Github. Plus précisément, placez-le dans un répertoire \(_« repo »_\) que vous baptiserez **edm4466-devoir1**. Ce répetoire peut-être privé. Mais au moment de la remise, vous devrez le rendre **public**.
+Vous devez déposer votre script \(**devoir1.py**\) dans votre compte Github. Plus précisément, placez-le dans un répertoire \(_« repo »_\) que vous baptiserez **edm4466-devoir1**. Ce répertoire peut-être privé. Mais au moment de la remise, vous devrez le rendre **public**.
 
 En outre, le nom exact est important, car un robot va ramasser votre devoir. S'il ne trouve pas ce nom précis, et si votre répertoire n'est pas public, il ne ramassera rien... 8,-\(
 
