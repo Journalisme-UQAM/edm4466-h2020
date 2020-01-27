@@ -2,7 +2,7 @@
 
 ## Objectifs de ce cours
 
-Coder ou décoder? Faut-il apprendre la programmation ou étudier les impacts du numérique? C'est un débat qui déchire universitaires et journalistes. Oui.
+Coder ou décoder? Faut-il apprendre la programmation ou étudier les impacts du numérique? C'est un débat qui déchire universitaires et journalistes.
 
 _«Il faut faire les deux»_, plaide Dominique Cardon dans [_Culture numérique_](http://www.pressesdesciencespo.fr/fr/book/?gcoi=27246100540390), publié en 2019. Il faut à la fois coder ET étudier les effets du numérique dans la société, écrit-il, _«car le numérique, pratique éminemment interactive, exige de comprendre en faisant et de faire en comprenant»_. C'est ce que nous allons tenter ensemble dans ce cours.
 
