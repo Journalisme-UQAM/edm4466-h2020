@@ -24,3 +24,7 @@ Je reste ouvert à vos **demandes spéciales**. Vous avez entendu parler d'un pr
 
 Inversement, si vous connaissez une technique, un outil, un truc, n'hésitez jamais à le **partager** avec l'ensemble du groupe. Parlez-m'en au préalable et on pourra prévoir une période dans le prochain cours pour que vous puissiez nous le ou la présenter. Si vous pouvez vous aussi m'apprendre quelque chose, je serai le prof le plus heureux du monde.
 
+> ## _There’s no shame in admitting what you don’t know. The only shame is pretending you know all the answers._
+>
+> * Neil deGrasse Tyson
+
