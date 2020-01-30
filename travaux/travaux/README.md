@@ -14,11 +14,11 @@ En outre, le nom exact est important, car un robot va ramasser votre devoir. S'i
 
 Postez-le avant 23h59, le 27 janvier 2020.
 
-## Devoir 2 \(10 points\) - Description à venir <a id="devoir-2"></a>
+## Devoir 2 \(10 points\) - [Lobbying climatique](devoir-2.md) <a id="devoir-2"></a>
 
-Même principe que la semaine précédente : déposez votre script \(**devoir2.py**\) dans un répertoire public \(_« repo »_\) de votre compte Github auquel vous donnerez le nom original de **edm4466-devoir2**.
+Même principe que la semaine précédente : déposez votre script \(**devoir2.py**\)  et le fichier csv qu'il produira dans un répertoire public \(_« repo »_\) de votre compte Github auquel vous donnerez le nom original de **edm4466-devoir2**.
 
-Postez-le avant 23h59, le 3 février 2020.
+Postez-le avant 23h59, le 3 février 2020. Au nom de l'information, je vous remercie!
 
 ## Devoir 3 \(15 points\) - Moissonnage \(description à venir\) <a id="devoir-3"></a>
 
