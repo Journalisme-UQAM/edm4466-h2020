@@ -6,7 +6,7 @@ Je vous présente Nancy Bélanger,  [Commissaire au lobbying du Canada](https://
 
 Le **lobbying**, [nous dit l'Encyclopédie canadienne](https://thecanadianencyclopedia.ca/fr/article/lobbying), consiste à rencontrer des élu\(e\)s ou des fonctionnaires dans le but d’influencer les lois, les politiques ou les décisions des gouvernements.
 
-C'est une activité à laquelle, traditionnellement, des entreprises et des groupes d'intérêt se livraient dans le plus grand secret. L'influence politique ne se faisait pas dans la transparence... Jusqu'à l'adoption, en 1989, d'une loi sur l'enregistrement des lobbyiste, rebaptisée Loi sur le lobbying en 2006.
+C'est une activité à laquelle, traditionnellement, des entreprises et des groupes d'intérêt se livraient dans le plus grand secret. L'influence politique ne se faisait pas dans la transparence... Jusqu'à l'adoption, en 1989, d'une loi sur l'enregistrement des lobbyistes, rebaptisée Loi sur le lobbying en 2006.
 
 ### Le Registre
 
