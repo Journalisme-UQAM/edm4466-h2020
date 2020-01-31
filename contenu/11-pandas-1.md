@@ -2,9 +2,9 @@
 
 ## 19 mars 2020
 
-![](../.gitbook/assets/pandas_logo.png)
+![Logo de la biblioth&#xE8;que pandas](../.gitbook/assets/pandaslogo2020.png)
 
-Pandas est une autre bibliothèque python. Ce qu'elle ajoute à python, c'est des capacités assez formidables d'analyse de données. On va en voir toute la puissance en interrogeant des bases de données trop lourdes pour être analysées avec un tableur comme _Excel_ ou _Calc_.
+[Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html#) est une autre bibliothèque python. Ce qu'elle ajoute à python, c'est des capacités assez formidables d'analyse de données. On va en voir toute la puissance en interrogeant des bases de données trop lourdes pour être analysées avec un tableur comme _Excel_ ou _Calc_.
 
 ![](../.gitbook/assets/logo-jupyter.png)
 
