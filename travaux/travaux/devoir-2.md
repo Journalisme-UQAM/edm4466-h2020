@@ -29,7 +29,7 @@ Il se trouve à cet URL:
 C'est un immense fichier JSON structuré ainsi:
 
 * Une première clé appelée «registre» dont la valeur est une liste de près de 72000 éléments.
-* Chacun de ces éléments est une inscription au registre, elle-même sous forme d'une autre liste comptant trois éléments:
+* Chacun de ces éléments est une inscription au registre, elle-même sous forme d'une autre liste comptant trois éléments \(cliquez sur les onglets ci-dessous pour en voir les détails\):
 
 {% tabs %}
 {% tab title="0" %}
@@ -37,11 +37,11 @@ Un **dictionnaire** \(`dict`\) décrivant quel organisme ou quelle entreprise a 
 {% endtab %}
 
 {% tab title="1" %}
-Une **liste** \(`list`\) de tous les sujets abordés dans cette inscription \(souvent la liste ne compte qu'un élément, parce qu'un seul sujet a été abordé, mais parfois, il y a plusieurs sujets\).
+Une **liste** \(`list`\) de tous les sujets abordés dans cette inscription \(souvent la liste ne compte qu'un élément, parce qu'un seul sujet a été abordé, mais parfois, il y a plusieurs sujets\). Chacun des éléments de la liste est un dictionnaire.
 {% endtab %}
 
 {% tab title="2" %}
-Une **liste** \(`list`\) de tous les fonctionnaires ou élu\(e\)s rencontré\(e\)s à cette occasion \(souvent la liste ne compte qu'un seul élément, mais parfois plusieurs responsables ont été rencontrés.
+Une **liste** \(`list`\) de tous les fonctionnaires ou élu\(e\)s rencontré\(e\)s à cette occasion \(souvent la liste ne compte qu'un seul élément, mais parfois plusieurs responsables ont été rencontrés\). Ici aussi, chacun des éléments de la liste est un dictionnaire.
 {% endtab %}
 {% endtabs %}
 
