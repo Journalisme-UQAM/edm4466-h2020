@@ -12,9 +12,9 @@ C'est une activité à laquelle, traditionnellement, des entreprises et des grou
 
 Depuis 2008, le Registre des lobbyistes enregistre **trois dimensions du lobbying** :
 
-* Qui fait du lobbying \(quelles entreprises ou organismes\)?
-* Qui est la cible du lobbying \(quels ministères ou élu\(e\) cherche-t-on à influencer\)?
-* Quels sujets sont abordés?
+* Qui est à la **source** du lobbying \(quelles entreprises ou organismes\)?
+* Qui est la **cible** du lobbying \(quels ministères ou élu\(e\) cherche-t-on à influencer\)?
+* Quels **sujets** sont abordés?
 
 Inutile de vous dire combien ce Registre peut être d'intérêt public. Il vous permet de connaître qui cherche à influencer qui et pourquoi.
 
