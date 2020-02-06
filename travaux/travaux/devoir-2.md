@@ -117,11 +117,11 @@ Pardonnez ce long préambule, mais il fallait mettre la table pour votre mission
 * nom de l'organisation lobbyiste en français
 * nom de l'organisation lobbyiste en anglais
 * date à laquelle la communication a eu lieu
-* sujet principal
-* sujet autre
+* sujet principal \(n'en indiquez qu'un seul \[voir paragraphe suivant\]\)
+* sujet autre \(n'en indiquez qu'un seul \[voir paragraphe suivant\]\)
 * l'institution visée \(_optionnel_\)
 
-Mais attention, le fichier ne devra contenir ces informations uniquement lorsqu'il a été question de **climat**. Ne considérez donc que les inscriptions dont le sujet principal ou le sujet autre contiennent la chaîne de caractères «_**limat**_», afin de trouver «climat», «Climat», «climatique», etc.
+Mais attention, le fichier ne devra contenir ces informations uniquement lorsqu'il a été question de **climat**. Ne considérez donc que les inscriptions dont le sujet principal ou le sujet autre contiennent la chaîne de caractères «_**limat**_», afin de trouver «climat», «Climat», «climatique», etc. Et à ce moment-là, n'inscrivez dans votre fichier qu'un seul «sujet principal» \(celui qui contient l'expression «limat»\) et qu'un seul «autre sujet» \(celui qui, ici aussi, contient l'expression «limat»\).
 
 Plus de détails sur les paramètres de remise [dans la section travaux.](./#devoir-2) 
 
