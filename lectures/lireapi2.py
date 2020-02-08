@@ -1,4 +1,5 @@
 # coding: utf-8
+# CC BY-NC-SA 4.0 - 2020 - Jean-Hugues Roy (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### POUR LIRE DES API EN DIRECT SUR LE WEB
 ### ET ENSUITE CRÉER DES CSV
