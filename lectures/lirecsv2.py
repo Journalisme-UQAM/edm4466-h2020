@@ -1,4 +1,5 @@
-# coding: utf-8 
+# coding: utf-8
+# (c) 2020 - Jean-Hugues Roy
 
 ### POUR APPRENTISSAGE DE:
 ### LECTURE DE CSV 
