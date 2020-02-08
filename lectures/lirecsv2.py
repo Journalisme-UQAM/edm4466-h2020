@@ -1,5 +1,5 @@
 # coding: utf-8
-# (c) 2020 - Jean-Hugues Roy
+# CC BY-NC-SA 4.0 - 2020 - Jean-Hugues Roy (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### POUR APPRENTISSAGE DE:
 ### LECTURE DE CSV 
