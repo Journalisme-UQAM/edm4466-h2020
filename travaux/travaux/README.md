@@ -20,6 +20,8 @@ Même principe que la semaine précédente : déposez votre script \(**devoir2.p
 
 Postez-le avant 23h59, le 10 février 2020. Au nom de l'information, je vous remercie!
 
+\[Voilà! [Le corrigé est disponible ici](https://github.com/Journalisme-UQAM/edm4466-h2020/blob/master/travaux/travaux/devoir2.py)\]
+
 ## Devoir 3 \(15 points\) - Moissonnage \(description à venir\) <a id="devoir-3"></a>
 
 Le travail est bien décrit dans [la page de la semaine 6](../../contenu/06-python-4.md). Vous devez déposer votre script \(**devoir3.py**\) dans votre compte Github. Placez-le dans un _« repo »_ public que vous appellerez **edm4466-devoir3**.
