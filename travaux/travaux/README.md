@@ -36,7 +36,7 @@ Postez-le avant 23h59, le 16 mars 2020.
 
 Vous devrez cette fois mettre en ligne un carnet Jupyter que vous appelerez **devoir5.ipynb**. En outre, placez-le dans un _« repo »_ public que vous baptiserez **edm4466-devoir5**.
 
-Postez-le avant 23h59, le 17 mars 2019.
+Postez-le avant 23h59, le 30 mars 2020.
 
 ## Projet final \(25 points\)
 
