@@ -22,7 +22,7 @@ Postez-le avant 23h59, le 10 février 2020. Au nom de l'information, je vous rem
 
 \[Voilà! [Le corrigé est disponible ici](https://github.com/Journalisme-UQAM/edm4466-h2020/blob/master/travaux/travaux/devoir2.py)\]
 
-## Devoir 3 \(15 points\) - Moissonnage <a id="devoir-3"></a>
+## Devoir 3 \(15 points\) - Moissonnage \(description à venir\) <a id="devoir-3"></a>
 
 Le travail est bien décrit dans [la page de la semaine 6](../../contenu/06-python-4.md). Vous devez déposer votre script \(**devoir3.py**\) dans votre compte Github. Placez-le dans un _« repo »_ public que vous appellerez **edm4466-devoir3**.
 
@@ -55,7 +55,7 @@ Votre reportage devra également :
 
 * comprendre au moins **une entrevue** avec un expert, un témoin, ou tout autre intervenant en mesure de valider ou d'incarner ce que racontent les données dans votre reportage \(cette exigence vaut aussi pour celles et ceux qui travailleront en collaboration avec un\(e\) étudiant.e de Polytechnique\).
 
-L'**option outil** peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit : « Hé! Ce serait cool si on pouvait faire telle chose! » Eh bien, allez-y! Faites-la! _W kapab_!
+L'**option outil** peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit : « Hé! Ce serait cool si on pouvait faire telle chose! » Eh bien, allez-y! Faites-la! _Ou kapab_!
 
 ## _Making-of_ \(10 points\)
 
