@@ -28,7 +28,9 @@ Le travail est bien décrit dans [la page de la semaine 6](../../contenu/06-pyth
 
 Postez-le avant 23h59, le 21 février 2020.
 
-## Devoir 4 \(10 points\) - Description à venir <a id="devoir-4"></a>
+\[[J'ai réuni tous vos moissonnages corrigés ici](https://github.com/Journalisme-UQAM/moissonage2020/).\]
+
+## Devoir 4 \(10 points\) - [Richard Martineau](devoir-4.md) <a id="devoir-4"></a>
 
 Vous commencez à être des habitué\(e\)s de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre document \(**devoir4.py**\) dans votre compte Github \(répertoire **edm4466-devoir4**\).
 
@@ -36,7 +38,9 @@ Postez-le avant 23h59, le 16 mars 2020.
 
 ## Devoir 5 \(10 points\) - Description à venir <a id="devoir-5"></a>
 
-Vous devrez cette fois mettre en ligne un carnet Jupyter que vous appelerez **devoir5.ipynb**. En outre, placez-le dans un _« repo »_ public que vous baptiserez **edm4466-devoir5**.
+Vous devrez cette fois mettre en ligne un carnet Jupyter. Attention! Vous lui donnerez le nom suivant : **devoir5.ipynb**. Ça ne se termine pas par .py, ici.
+
+En outre, placez-le dans un _« repo »_ public que vous baptiserez **edm4466-devoir5**.
 
 Postez-le avant 23h59, le 30 mars 2020.
 
@@ -71,7 +75,7 @@ Quelle que soit la forme que prendra votre travail final, il devra être accompa
   * Comment vous ont-ils\(elles\) servi?
   * Quels problèmes avez-vous éprouvés \(s'il y a lieu\).
 
-Votre document PDF doit être accompagné, s'il y a lieu, de tous les scripts **\(fichiers .py ou .rb ou .js\)** que vous avez écrits, et/ou de tous les fichiers de données **\(formats .csv, .ods, .xls, .sql ou autres\)** que vous avez récoltés ou dont vous vous êtes servis.
+Votre document PDF doit être accompagné, s'il y a lieu, de tous les scripts **\(fichiers .py ou carnets Jupyter\)** que vous avez écrits, et/ou de tous les fichiers de données **\(formats .csv, .ods, .xls, .sql ou autres\)** que vous avez récoltés ou dont vous vous êtes servis ou que vous avez produits.
 
 Vous mettez tout cela dans un _« repo »_ public sur votre compte Github avant le début du dernier cours \(14h00, le 16 avril 2020\). Vous pouvez lui donner le nom qui vous plaît.
 

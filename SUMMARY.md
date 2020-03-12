@@ -32,6 +32,7 @@
   * [Devoir 0](travaux/travaux/devoir-0.md)
   * [Devoir 1](travaux/travaux/devoir-1.md)
   * [Devoir 2](travaux/travaux/devoir-2.md)
+  * [Devoir 4](travaux/travaux/devoir-4.md)
 * [Ventilation](travaux/ventilation.md)
 * [Critères d'évaluation](travaux/criteres-devaluation.md)
 * [Tutoriels](travaux/tutoriels.md)
