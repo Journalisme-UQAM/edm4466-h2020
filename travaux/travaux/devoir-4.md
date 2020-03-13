@@ -10,7 +10,7 @@ Il a téléchargé toutes les chroniques que j'ai écrites de [janvier 2010](htt
 
 Vraiment!!!
 
-Il a mis tout ça dans [un fichier CSV](https://github.com/Journalisme-UQAM/edm4466-h2020/blob/master/travaux/travaux/martino.csv)!!!
+Il a mis tout ça dans [un fichier CSV](https://github.com/Journalisme-UQAM/edm4466-h2020/blob/master/travaux/travaux/martino.csv)!!! \([autre option pour le télécharger \(via Dropbox\)](https://www.dropbox.com/s/268x4kylmpw6h15/martino.csv?dl=0)\).
 
 Un fou, je vous dis!!!
 

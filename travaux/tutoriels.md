@@ -19,6 +19,9 @@ Les différents tutoriels que je vous présenterai au cours de la session sont r
 * Cours 9 \(**TAL**\):
   * [Présentation générale et théorique sur le **traitement automatique du langage naturel**](https://github.com/Journalisme-UQAM/edm4466-h2020/raw/master/lectures/Traitement%20automatique%20du%20langage%20-%20intro.pdf)\*\*\*\*
   * [Trois tutoriels sur les façons d'**extraire du texte de fichiers PDF**](https://github.com/Journalisme-UQAM/extractionPDF).
+* Cours 10 \(**TAL**\):
+  * Tutoriel de traitement automatique du langage [**avec spaCy**](https://github.com/Journalisme-UQAM/edm4466-h2020/blob/master/lectures/tal-spacy.py).
+  * Tutoriel de traitement automatique du langage [**avec NLTK**](https://github.com/Journalisme-UQAM/edm4466-h2020/blob/master/lectures/tal-nltk.py).
 * [Pandas](https://github.com/jhroy/tuto-pandas/blob/master/tutoriel.ipynb)
 * [Les principales commandes SQL](https://gist.github.com/jhroy/21acbdf067adc6721b20fbb8aabe020a#file-mysql-requetes-sql)
 
