@@ -1,4 +1,4 @@
-# 12 - Pandas 2
+# 12 - Pandas 2 - Cours annulé
 
 ## 26 mars 2020
 

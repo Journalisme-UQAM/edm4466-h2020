@@ -1,4 +1,4 @@
-# 11 - Pandas 1
+# 11 - Pandas 1 - Cours annulé
 
 ## 19 mars 2020
 

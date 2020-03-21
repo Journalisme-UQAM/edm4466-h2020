@@ -20,9 +20,9 @@
 * [08 - Semaine de lecture](contenu/08-semaine-de-lecture.md)
 * [09 - TAL 1](contenu/09-tal-1.md)
 * [10 - TAL 2](contenu/10-tal-2.md)
-* [11 - Pandas 1](contenu/11-pandas-1.md)
-* [12 - Pandas 2](contenu/12-pandas-2.md)
-* [13 - Débogage](contenu/13-debogage.md)
+* [11 - Pandas 1 - Cours annulé](contenu/11-pandas-1.md)
+* [12 - Pandas 2 - Cours annulé](contenu/12-pandas-2.md)
+* [13 - Débogage - Tutorat en ligne](contenu/13-debogage.md)
 * [14 - Automatisation et SQL](contenu/14-automatisation-et-sql.md)
 * [15 - Présentations finales](contenu/15-presentations-finales.md)
 

@@ -36,7 +36,7 @@ Vous commencez à être des habitué\(e\)s de Github. Est-il nécessaire de vous
 
 Postez-le avant 23h59, le 16 mars 2020.
 
-## Devoir 5 \(10 points\) - Description à venir <a id="devoir-5"></a>
+## Devoir 5 \(10 points\) - ANNULÉ <a id="devoir-5"></a>
 
 Vous devrez cette fois mettre en ligne un carnet Jupyter. Attention! Vous lui donnerez le nom suivant : **devoir5.ipynb**. Ça ne se termine pas par .py, ici.
 
@@ -79,7 +79,13 @@ Votre document PDF doit être accompagné, s'il y a lieu, de tous les scripts **
 
 Vous mettez tout cela dans un _« repo »_ public sur votre compte Github avant le début du dernier cours \(14h00, le 16 avril 2020\). Vous pouvez lui donner le nom qui vous plaît.
 
-## Présentations \(deux fois 4 points\)
+## Présentations \(deux fois 4 points\) - ANNULÉES
 
 Je vous donne quatre points pour chacune de vos présentations \(l'initiale, à la semaine 13, et la finale à la semaine 15\).
+
+## Tutorat en ligne
+
+Voir la [semaine 13](../../contenu/13-debogage.md) pour plus de détails.
+
+
 
