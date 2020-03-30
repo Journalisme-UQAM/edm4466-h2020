@@ -22,6 +22,6 @@ Les différents tutoriels que je vous présenterai au cours de la session sont r
 * Cours 10 \(**TAL**\):
   * Tutoriel de traitement automatique du langage [**avec spaCy**](https://github.com/Journalisme-UQAM/edm4466-h2020/blob/master/lectures/tal-spacy.py).
   * Tutoriel de traitement automatique du langage [**avec NLTK**](https://github.com/Journalisme-UQAM/edm4466-h2020/blob/master/lectures/tal-nltk.py).
-* [Pandas](https://github.com/jhroy/tuto-pandas/blob/master/tutoriel.ipynb)
+* [Pandas](https://github.com/jhroy/tuto-pandas/blob/master/Tutoriel_pandas_en_francais.ipynb)
 * [Les principales commandes SQL](https://gist.github.com/jhroy/21acbdf067adc6721b20fbb8aabe020a#file-mysql-requetes-sql)
 
